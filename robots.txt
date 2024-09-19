@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://somenten.github.io/sitemap.html.gz
+Sitemap: https://somenten.github.io/app/sitemap.html.gz
+Sitemap: https://somenten.github.io/assets/sitemap.html.gz
+Sitemap: https://somenten.github.io/css/sitemap.html.gz
+Sitemap: https://somenten.github.io/data/sitemap.html.gz
+Sitemap: https://somenten.github.io/includes/sitemap.html.gz
+Sitemap: https://somenten.github.io/item/sitemap.html.gz
+Sitemap: https://somenten.github.io/src/sitemap.html.gz
